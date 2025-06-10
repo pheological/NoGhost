@@ -1,0 +1,1 @@
+Removes ghost items and blocks from the game. I do NOT take credit for making the logic for the ghost blocks, as I took that from https://github.com/gbl/AntiGhost. This mod currently only supports totems, crossbows, and buckets. Please message me on discord or open an issue in the github repo if you find any bugs or want me to add other items.
